@@ -22,5 +22,5 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = '>= 1.8.7'
   spec.add_dependency "redis", ">=3.0.3"
-  spec.add_dependency "redis-namespace", ">=1.3.0"
+  spec.add_dependency "redis-namespace", ">=1.2.1"
 end
